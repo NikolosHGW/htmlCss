@@ -1,0 +1,34 @@
+﻿.body {
+    margin: 0;
+}
+
+.header {
+    width: 100vw;
+    font-size: 14px;
+}
+
+.header-top {
+    height: 33px;
+    background-color: lightseagreen;
+}
+
+.header-bottom {
+    height: 64px;
+    background-color: whitesmoke;
+}
+
+.nav {
+    height: 100%;
+    width: 1199px;
+    margin-left: auto;
+    margin-right: auto;
+    display: flex;
+}
+
+.nav-ul {
+    margin: auto;
+}
+
+.nav-li {
+    display: inline-block;
+}
