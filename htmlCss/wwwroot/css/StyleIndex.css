@@ -27,19 +27,39 @@
     display: flex;
 }
 
+.link-city {
+    margin: auto 0;
+    padding: 0;
+    text-decoration: none;
+    color: white;
+}
+
 .nav-ul {
     margin: auto;
+    padding: 0;
 }
 
 .nav-li {
     display: inline-block;
+    margin-right: 100px;
+}
+
+.no-right {
+    margin-right: 0px;
 }
 
 .link {
     text-decoration: none;
     color: white;
+    text-transform: uppercase;
 }
 
 .link:hover {
     color: blue;
+}
+
+.number-head {
+    margin: auto 0;
+    padding: 0;
+    color: white;
 }
